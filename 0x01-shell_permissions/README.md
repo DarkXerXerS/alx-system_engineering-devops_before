@@ -1,1 +1,1 @@
-this folder is about permission commands
+permission commands
